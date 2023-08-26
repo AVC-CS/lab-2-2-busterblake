@@ -9,7 +9,7 @@ def main():
     regular_wage = reg_hours * reg_rate
     total_wage = regular_wage + overtime_wage
 
-
+ 
 
 
     print(f"Regular hours: {reg_hours} Regular Charge: {regular_wage}")
